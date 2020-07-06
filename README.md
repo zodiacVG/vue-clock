@@ -1,4 +1,4 @@
-# notebook
+# VUE-Clock
 
 ## Project setup
 ```
